@@ -34,5 +34,11 @@ git clone https://github.com/your-username/payment-checkout.git
 cd payment-checkout
 
 ### Run Development Server
-
   npm run dev
+
+
+## Screenshots:
+![image](https://github.com/user-attachments/assets/a01cd8fd-266c-4fbe-bac6-c7fc3db20b95)
+![image](https://github.com/user-attachments/assets/fc795e3c-d825-4cc1-b810-6945dfe007f5)
+
+
