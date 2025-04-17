@@ -32,3 +32,7 @@ This is a responsive and modern payment checkout page built using **Next.js** an
 ```bash
 git clone https://github.com/your-username/payment-checkout.git
 cd payment-checkout
+
+### Run Development Server
+
+  npm run dev
